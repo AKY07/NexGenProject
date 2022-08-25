@@ -40,7 +40,7 @@ function Header() {
         </div>
         <div className="item-center flex flex-shrink-0 justify-between space-x-6">
           <a
-            href=""
+            href="https://github.com/AKY07/NexGenProject.git"
             target="_blank"
             className="focus:shadow-outline-green p-1 rounded-md focus:outline-none"
             aria-label="github repository link"
